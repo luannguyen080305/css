@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+.Đầu{
+    background-color: #B84800;
+    text-align: center;
+}
+h1{
+    color: #FAD232;
+}
+.Đầu:hover{
+    background-color: #d4580a;
+}
+.Giữa{
+    background-color: #B84800;
+    text-align: center;
+}
+h2{
+    color: #FAD232;
+}
+p{
+    color:white;
+}
+.Giữa:hover{
+    background-color:#d4580a;
+}
+
+.book-list{
+    background-color: #B84800;
+    text-align: center;
+}
+.book-list:hover{
+    background-color: #d4580a;
+}
+.event{
+    background-color:#B84800;
+    text-align: center;
+}
+.event p1{
+    color: white;
+}
+.event p2{
+    color: white;
+}
+.event button:hover{
+    background-color: #FAD232;
+}
